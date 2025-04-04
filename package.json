@@ -1,0 +1,24 @@
+{
+  "name": "first_hardhat_project",
+  "version": "1.0.0",
+  "description": "This is the repo where I am learning Solidity on the hardhat framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praneethgs36/first_hardhat_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praneethgs36/first_hardhat_project/issues"
+  },
+  "homepage": "https://github.com/praneethgs36/first_hardhat_project#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.19"
+  }
+}
